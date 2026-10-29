@@ -1,0 +1,2 @@
+# zumzum
+ladno/
